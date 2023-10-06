@@ -1,6 +1,6 @@
 //
 //  main.cpp
-//  Leetcode
+//  medium
 //
 //  Created by Jason Yeh on 10/6/23.
 //
@@ -9,6 +9,6 @@
 
 int main(int argc, const char * argv[]) {
     // insert code here...
-    std::cout << "Hello, Leetcode Easy!\n";
+    std::cout << "Hello, Leetcode Medium!\n";
     return 0;
 }
